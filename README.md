@@ -14,6 +14,8 @@ Style
   - https://codepen.io/kevic0935/pen/rqeyvO
 - Select 連動
   - https://codepen.io/kevic0935/pen/qerXML?editors=101
+- 問卷喜好度Style
+  - https://codepen.io/kevic0935/pen/WNeLqxZ
 
 Map
 ----
