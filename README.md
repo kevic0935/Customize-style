@@ -16,7 +16,26 @@ Style
   - https://codepen.io/kevic0935/pen/qerXML?editors=101
 - 問卷喜好度Style
   - https://codepen.io/kevic0935/pen/WNeLqxZ
-
+- 分頁+塞選
+  - https://codepen.io/kevic0935/pen/NWRxMpq
+- 抽獎 英文*2 數字*4
+  - https://codepen.io/kevic0935/pen/gOPWJWW
+- 大分頁Menu Left
+  - https://codepen.io/kevic0935/pen/ZEGwPOM
+- 鈕扣 CSS
+  - https://codepen.io/kevic0935/pen/oNgKdvw
+- navigation *3
+  - https://codepen.io/kevic0935/pen/PoqPpjb
+- Input IPV4
+  - https://codepen.io/kevic0935/pen/PowObwV?editors=1010
+- Page 禁止複製
+  - https://codepen.io/kevic0935/pen/aboVZwO
+- Animated List Items 
+  - https://codepen.io/kevic0935/pen/pmYwXa?editors=1010
+- JS icon menu - right
+  - https://codepen.io/kevic0935/details/EMJoYq
+- 光暈CSS 呼吸燈
+  - https://codepen.io/kevic0935/pen/KGaBBV
 Map
 ----
 - Google map + ptx api
