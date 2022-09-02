@@ -46,7 +46,7 @@ Map
   - https://codepen.io/kevic0935/pen/ymYydM?editors=1010
 Page
 ----
-- iCAP admin/admin
+- iCAP
   - https://icap.innodisk.com/
 - 群益 Mobile
   - https://www.capital.com.tw/event/template/Cmobile/default.asp
